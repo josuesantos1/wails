@@ -4,7 +4,7 @@
 
 <p align="center">
   Build desktop applications using Go & Web Technologies.
-  <br/>
+  <br/> 
   <br/>
   <a href="https://github.com/wailsapp/wails/blob/master/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/wailsapp/wails"/>
